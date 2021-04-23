@@ -12,7 +12,7 @@
     "testEnvironment": "node"
   },
   "keywords": [],
-  "author": "",
+  "author": "Suljkanovic Semin",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.3.0",
